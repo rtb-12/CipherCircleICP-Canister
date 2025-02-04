@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "CipherCircleCanister_backend": {
+      "candid": "src/CipherCircleCanister_backend/CipherCircleCanister_backend.did",
+      "package": "CipherCircleCanister_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
